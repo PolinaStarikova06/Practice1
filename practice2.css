@@ -121,7 +121,7 @@ html, body {
  background-repeat: no-repeat;
  background-position: top center;
 }
-#landing .parallax-one {
+#landing .parallax-two {
  padding-top: 200px;
  padding-bottom: 200px;
  overflow: hidden;
@@ -135,7 +135,7 @@ html, body {
  background-repeat: no-repeat;
  background-position: center center;
 }
-#landing .parallax-one {
+#landing .parallax-three {
  padding-top: 200px;
  padding-bottom: 200px;
  overflow: hidden;
@@ -151,6 +151,16 @@ html, body {
 }
 #landing .line-break {
  background: linear-gradient(60deg, pink, yellow, orange);
+ width: 100%;
+ margin: 0 auto;
+}
+#landing .line-break2 {
+ background: linear-gradient(60deg, yellow, pink, orange);
+ width: 100%;
+ margin: 0 auto;
+}
+#landing .line-break3 {
+ background: linear-gradient(60deg, orange, yellow, pink);
  width: 100%;
  margin: 0 auto;
 }
