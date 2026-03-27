@@ -94,7 +94,7 @@ header #brand {
 
 }
 a:visited{
-  color: black;
+  color: black !important;
 }
 header #brand:before {
 
