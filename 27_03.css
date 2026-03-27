@@ -93,6 +93,9 @@ header #brand {
   top: 15%;
 
 }
+a:visited{
+  color: black;
+}
 header #brand:before {
 
   content: "";
