@@ -77,11 +77,11 @@ li:hover  {
    transition: width 0.3s ease-in-out;
    width: 8.3vw;
 }
-#one {background-color:#c4b9e1;}
-#two {background-color:#fe762a;}
-#three {background-color:#004a81;}
-#four {background-color:#c90506;}
-#five {background-color:#09b3fe;}
+#one {background-color: #c4b9e1;}
+#two {background-color: #fe762a;}
+#three {background-color: #004a81;}
+#four {background-color: #c90506;}
+#five {background-color: #09b3fe;}
 section {
   position: relative;
   display: block;
